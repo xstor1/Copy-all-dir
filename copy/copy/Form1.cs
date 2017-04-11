@@ -20,7 +20,7 @@ namespace copy
         {
             InitializeComponent();
         }
-        //uýtřru
+        //uýt
         private void button1_Click(object sender, EventArgs e)
         {
             DirectoryCopy(textBox_source_path.Text,textBox_destination_path.Text , true);
