@@ -16,3 +16,6 @@ X:\programko\3 rocnikl\form\Projekt_zalohy\copy\copy\obj\Debug\copy.csprojResolv
 X:\programko\3 rocnikl\form\Projekt_zalohy\copy\copy\obj\Debug\copy.Form1.resources
 X:\programko\3 rocnikl\form\Projekt_zalohy\copy\copy\obj\Debug\copy.Properties.Resources.resources
 X:\programko\3 rocnikl\form\Projekt_zalohy\copy\copy\obj\Debug\copy.csproj.GenerateResource.Cache
+C:\Users\storvojtech\Source\Repos\Copy-all-dir\copy\copy\bin\Debug\copy.exe.config
+C:\Users\storvojtech\Source\Repos\Copy-all-dir\copy\copy\obj\Debug\copy.exe
+C:\Users\storvojtech\Source\Repos\Copy-all-dir\copy\copy\obj\Debug\copy.pdb
